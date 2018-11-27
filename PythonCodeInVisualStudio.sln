@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication1", "PythonApplication1\PythonApplication1.pyproj", "{C20405B7-12F9-4BED-A2B0-21D887727B5B}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FlaskWebProject1", "FlaskWebProject1\FlaskWebProject1.pyproj", "{9786AD55-2D73-402B-B9FA-054311E7CB2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpCallPython", "CSharpCallPython\CSharpCallPython.csproj", "{01243BB5-0F1D-4091-B521-39D8D38B47DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C20405B7-12F9-4BED-A2B0-21D887727B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C20405B7-12F9-4BED-A2B0-21D887727B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9786AD55-2D73-402B-B9FA-054311E7CB2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9786AD55-2D73-402B-B9FA-054311E7CB2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9786AD55-2D73-402B-B9FA-054311E7CB2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9786AD55-2D73-402B-B9FA-054311E7CB2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01243BB5-0F1D-4091-B521-39D8D38B47DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01243BB5-0F1D-4091-B521-39D8D38B47DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01243BB5-0F1D-4091-B521-39D8D38B47DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01243BB5-0F1D-4091-B521-39D8D38B47DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {356016C0-D200-42E8-83BB-00828E16F08F}
+	EndGlobalSection
+EndGlobal
